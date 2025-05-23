@@ -4,6 +4,7 @@
 <li>TES</li>
 
 # OYUN FOTOSU
+<img src="wal.jpg">
 
 
 
