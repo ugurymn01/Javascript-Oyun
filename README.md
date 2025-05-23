@@ -4,7 +4,7 @@
 <li>TES</li>
 
 # OYUN FOTOSU
-<img src="src/resimler/ekranresmi1.jpg">
+<img src="src/resimler/ekranresmi1.png">
 
 
 
