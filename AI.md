@@ -1,4 +1,4 @@
-# Javascirpt oyun prompları
+# Javascirpt oyun promptları
 prompt: AABB Algoritmasını açıklar mısın?
 cevap: 
 # 🟥 AABB (Axis-Aligned Bounding Box) Algoritması
