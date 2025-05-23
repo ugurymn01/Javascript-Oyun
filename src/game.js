@@ -333,7 +333,7 @@ function arkaplaniciz() {
     oyuncukonumY < kupaaaaaa.y + kupaaaaaa.height
   ) {
     level++;
-    platformhizi += 0.5;
+    platformhizi -= 0.5;
     skor = 0;
     kupaaaaaa.visible = false;
     levelgecildi = true;
