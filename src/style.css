@@ -1,0 +1,17 @@
+/* Sayfanın genel arka planı ve hizalaması */
+body {
+    margin: 0; /* Sayfa kenar boşluğunu kaldırır */
+    background-color: #111; /* Arka plan rengi: koyu gri/siyah */
+    display: flex; /* Ortalamak için flexbox kullanıyoruz */
+    justify-content: center; /* Yatayda ortala */
+    align-items: center; /* Dikeyde ortala */
+    height: 100vh; /* Sayfanın yüksekliği kadar alan */
+  }
+  
+  /* Oyun alanımız olan canvas */
+  canvas {
+    background-color: black; 
+    border: 3px solid white; /* Beyaz kenarlık */
+    box-shadow: 0 0 10px white; /* Hafif parlama efekti */
+  }
+  
